@@ -1,0 +1,4 @@
+-IC:\Users\ahmed\Documents\FirstWorkspace\Queue
+-std=c++17
+-target
+

@@ -1,0 +1,4 @@
+-IC:\Users\ahmed\Documents\FirstWorkspace\Stack_with_Linked_List
+-std=c++17
+-target
+

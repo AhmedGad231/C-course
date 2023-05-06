@@ -1,0 +1,4 @@
+-IC:\Users\ahmed\Documents\FirstWorkspace\This-Pointer
+-std=c++17
+-target
+

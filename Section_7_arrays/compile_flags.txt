@@ -1,0 +1,4 @@
+-IC:\Users\ahmed\Documents\FirstWorkspace\Section_7_arrays
+-std=c++17
+-target
+

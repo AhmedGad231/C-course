@@ -1,0 +1,4 @@
+-IC:\Users\ahmed\Documents\FirstWorkspace\ForLoop
+-std=c++17
+-target
+

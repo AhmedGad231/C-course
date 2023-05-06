@@ -1,0 +1,4 @@
+-IC:\Users\ahmed\Documents\FirstWorkspace\Trying_To_Make_A_File
+-std=c++17
+-target
+

@@ -1,0 +1,4 @@
+-IC:\Users\ahmed\Documents\FirstWorkspace\Section_10_Challenge
+-std=c++17
+-target
+

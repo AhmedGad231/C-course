@@ -1,0 +1,4 @@
+-IC:\Users\ahmed\Documents\FirstWorkspace\section_6_tagroba
+-std=c++17
+-target
+

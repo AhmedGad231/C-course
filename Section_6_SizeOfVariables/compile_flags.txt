@@ -1,0 +1,4 @@
+-IC:\Users\ahmed\Documents\FirstWorkspace\Section_6_SizeOfVariables
+-std=c++17
+-target
+

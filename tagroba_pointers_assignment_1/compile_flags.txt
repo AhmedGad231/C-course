@@ -1,0 +1,4 @@
+-IC:\Users\ahmed\Documents\FirstWorkspace\tagroba_pointers_assignment_1
+-std=c++17
+-target
+

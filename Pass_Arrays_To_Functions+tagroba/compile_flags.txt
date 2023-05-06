@@ -1,0 +1,4 @@
+-IC:\Users\ahmed\Documents\FirstWorkspace\Pass_Arrays_To_Functions+tagroba
+-std=c++17
+-target
+

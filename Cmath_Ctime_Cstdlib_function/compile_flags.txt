@@ -1,0 +1,4 @@
+-IC:\Users\ahmed\Documents\FirstWorkspace\Cmath_Ctime_Cstdlib_function
+-std=c++17
+-target
+

@@ -1,0 +1,4 @@
+-IC:\Users\ahmed\Documents\FirstWorkspace\-pro[rpjecrtsa
+-std=c++17
+-target
+

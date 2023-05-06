@@ -1,0 +1,4 @@
+-IC:\Users\ahmed\Documents\FirstWorkspace\_Ranged_Based_For_Loop
+-std=c++17
+-target
+

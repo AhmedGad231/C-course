@@ -1,0 +1,4 @@
+-IC:\Users\ahmed\Documents\FirstWorkspace\Const_pointer
+-std=c++17
+-target
+

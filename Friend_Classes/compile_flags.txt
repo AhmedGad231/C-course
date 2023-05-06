@@ -1,0 +1,4 @@
+-IC:\Users\ahmed\Documents\FirstWorkspace\Friend_Classes
+-std=c++17
+-target
+

@@ -1,0 +1,4 @@
+-IC:\Users\ahmed\Documents\FirstWorkspace\2D_Vectors_Example
+-std=c++17
+-target
+

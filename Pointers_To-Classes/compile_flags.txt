@@ -1,0 +1,4 @@
+-IC:\Users\ahmed\Documents\FirstWorkspace\Pointers_To-Classes
+-std=c++17
+-target
+

@@ -1,0 +1,4 @@
+-IC:\Users\ahmed\Documents\FirstWorkspace\Section6_To_Sectio7
+-std=c++17
+-target
+

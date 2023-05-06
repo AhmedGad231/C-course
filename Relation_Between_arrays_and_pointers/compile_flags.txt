@@ -1,0 +1,4 @@
+-IC:\Users\ahmed\Documents\FirstWorkspace\Relation_Between_arrays_and_pointers
+-std=c++17
+-target
+

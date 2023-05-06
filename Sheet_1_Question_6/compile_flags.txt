@@ -1,0 +1,4 @@
+-IC:\Users\ahmed\Documents\FirstWorkspace\Sheet_1_Question_6
+-std=c++17
+-target
+

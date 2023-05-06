@@ -1,0 +1,4 @@
+-IC:\Users\ahmed\Documents\FirstWorkspace\Assignement_Lecture
+-std=c++17
+-target
+

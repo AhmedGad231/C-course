@@ -1,0 +1,4 @@
+-IC:\Users\ahmed\Documents\FirstWorkspace\Section_8_euros_to_dollars
+-std=c++17
+-target
+

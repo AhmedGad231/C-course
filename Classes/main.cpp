@@ -1,0 +1,22 @@
+#include <iostream>  
+#include <string>
+#include <vector>
+using namespace std;
+class Player{
+  //attributes
+  string name;
+  int health;
+  int xp;
+
+  //Methods
+  void talk (string);
+  bool is_dead();   
+};
+int main(){
+  Player ahmed;
+  Player rafat;
+  Player *enemy{nullptr};
+  enemy= new Player;
+  delete enemy;
+    return 0;
+}

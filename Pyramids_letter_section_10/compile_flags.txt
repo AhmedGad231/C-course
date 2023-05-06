@@ -1,0 +1,4 @@
+-IC:\Users\ahmed\Documents\FirstWorkspace\Pyramids_letter_section_10
+-std=c++17
+-target
+

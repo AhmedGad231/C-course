@@ -1,0 +1,244 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeLite_Workspace Name="FirstWorkspace" Database="" Version="10000">
+  <VirtualDirectory Name="Section_10_to_12">
+    <Project Name="Section_10" Path="Section_10/Section_10.project" Active="No"/>
+    <Project Name="C++-style" Path="C++-style/C++-style.project" Active="No"/>
+    <Project Name="Section_10_Challenge" Path="Section_10_Challenge/Section_10_Challenge.project" Active="No"/>
+    <Project Name="Pyramids_letter_section_10" Path="Pyramids_letter_section_10/Pyramids_letter_section_10.project" Active="No"/>
+    <Project Name="Functions_Section_11" Path="Functions_Section_11/Functions_Section_11.project" Active="No"/>
+    <Project Name="Section_11_functionTyping" Path="Section_11_functionTyping/Section_11_functionTyping.project" Active="No"/>
+    <Project Name="Cmath_Ctime_Cstdlib_function" Path="Cmath_Ctime_Cstdlib_function/Cmath_Ctime_Cstdlib_function.project" Active="No"/>
+    <Project Name="Function_Definition" Path="Function_Definition/Function_Definition.project" Active="No"/>
+    <Project Name="Overloading_Functions" Path="Overloading_Functions/Overloading_Functions.project" Active="No"/>
+    <Project Name="Recursive_Functions" Path="Recursive_Functions/Recursive_Functions.project" Active="No"/>
+    <Project Name="DynamicMemory" Path="DynamicMemory/DynamicMemory.project" Active="No"/>
+    <Project Name="Relation_Between_arrays_and_pointers" Path="Relation_Between_arrays_and_pointers/Relation_Between_arrays_and_pointers.project" Active="No"/>
+    <Project Name="Const_pointer" Path="Const_pointer/Const_pointer.project" Active="No"/>
+    <Project Name="return_pointer_from_functions" Path="return_pointer_from_functions/return_pointer_from_functions.project" Active="No"/>
+    <Project Name="References" Path="References/References.project" Active="No"/>
+    <Project Name="Section_challenge" Path="Section_challenge/Section_challenge.project" Active="No"/>
+    <Project Name="Pass_Arrays_To_Functions+tagroba" Path="Pass_Arrays_To_Functions+tagroba/Pass_Arrays_To_Functions+tagroba.project" Active="No"/>
+    <Project Name="tagroba_pointers_assignment_1" Path="tagroba_pointers_assignment_1/tagroba_pointers_assignment_1.project" Active="No"/>
+    <Project Name="Assignment" Path="Assignment/Assignment.project" Active="No"/>
+  </VirtualDirectory>
+  <VirtualDirectory Name="OOP">
+    <Project Name="First_Class" Path="First_Class/First_Class.project" Active="No"/>
+    <Project Name="Constructors" Path="Constructors/Constructors.project" Active="No"/>
+    <Project Name="Destructors" Path="Destructors/Destructors.project" Active="No"/>
+    <Project Name="Pointers_To-Classes" Path="Pointers_To-Classes/Pointers_To-Classes.project" Active="No"/>
+    <Project Name="Overloading_Operators" Path="Overloading_Operators/Overloading_Operators.project" Active="No"/>
+    <Project Name="This-Pointer" Path="This-Pointer/This-Pointer.project" Active="No"/>
+    <Project Name="Static_Members" Path="Static_Members/Static_Members.project" Active="No"/>
+    <Project Name="Static_Functions" Path="Static_Functions/Static_Functions.project" Active="No"/>
+    <Project Name="Friend_Function" Path="Friend_Function/Friend_Function.project" Active="No"/>
+    <Project Name="Friend_Classes" Path="Friend_Classes/Friend_Classes.project" Active="No"/>
+    <Project Name="Polymorphism" Path="Polymorphism/Polymorphism.project" Active="No"/>
+    <Project Name="Classes" Path="Classes/Classes.project" Active="No"/>
+    <Project Name="Assignement_Lecture" Path="Assignement_Lecture/Assignement_Lecture.project" Active="No"/>
+    <Project Name="Assignment_Sheet_2" Path="Assignment_Sheet_2/Assignment_Sheet_2.project" Active="No"/>
+    <Project Name="Sheet2_question2" Path="Sheet2_question2/Sheet2_question2.project" Active="No"/>
+    <Project Name="Sheet1_Question_1" Path="Sheet1_Question_1/Sheet1_Question_1.project" Active="No"/>
+    <Project Name="Sheet2_Question_2" Path="Sheet2_Question_2/Sheet2_Question_2.project" Active="No"/>
+    <Project Name="Sheet1_Question3" Path="Sheet1_Question3/Sheet1_Question3.project" Active="No"/>
+    <Project Name="Sheet_1_Question_6" Path="Sheet_1_Question_6/Sheet_1_Question_6.project" Active="No"/>
+    <Project Name="Sheet1_Question_3" Path="Sheet1_Question_3/Sheet1_Question_3.project" Active="No"/>
+    <Project Name="Sheet1_Question_4" Path="Sheet1_Question_4/Sheet1_Question_4.project" Active="No"/>
+    <Project Name="-pro[rpjecrtsa" Path="-pro[rpjecrtsa/-pro[rpjecrtsa.project" Active="No"/>
+    <Project Name="Trying_To_Make_A_File" Path="Trying_To_Make_A_File/Trying_To_Make_A_File.project" Active="No"/>
+    <Project Name="ASSIGNMENT_3" Path="ASSIGNMENT_3/ASSIGNMENT_3.project" Active="No"/>
+    <Project Name="LinkedList" Path="LinkedList/LinkedList.project" Active="No"/>
+    <Project Name="Stack" Path="Stack/Stack.project" Active="No"/>
+    <Project Name="Stack_with_Linked_List" Path="Stack_with_Linked_List/Stack_with_Linked_List.project" Active="No"/>
+    <Project Name="Queue" Path="Queue/Queue.project" Active="No"/>
+    <Project Name="SASA'project" Path="SASA'project/SASA'project.project" Active="No"/>
+    <Project Name="Implementaion" Path="Implementaion/Implementaion.project" Active="No"/>
+    <Project Name="Implementaion_2" Path="Implementaion_2/Implementaion_2.project" Active="Yes"/>
+  </VirtualDirectory>
+  <VirtualDirectory Name="Section_6_to_section_9">
+    <Project Name="Section_7" Path="Section4Project/Section4Project.project" Active="No"/>
+    <Project Name="Section_6_SizeOfVariables" Path="Section_6_SizeOfVariables/Section_6_SizeOfVariables.project" Active="No"/>
+    <Project Name="Section6_To_Sectio7" Path="Section6_To_Sectio7/Section6_To_Sectio7.project" Active="No"/>
+    <Project Name="Section_7_arrays" Path="Section_7_arrays/Section_7_arrays.project" Active="No"/>
+    <Project Name="section_6_tagroba" Path="section_6_tagroba/section_6_tagroba.project" Active="No"/>
+    <Project Name="Section_6" Path="Projectnum1/Projectnum1.project" Active="No"/>
+    <Project Name="Section_7_vectors" Path="Section_7_vectors/Section_7_vectors.project" Active="No"/>
+    <Project Name="Section_8" Path="Section_8/Section_8.project" Active="No"/>
+    <Project Name="Section_8_euros_to_dollars" Path="Section_8_euros_to_dollars/Section_8_euros_to_dollars.project" Active="No"/>
+    <Project Name="Section_9_enum" Path="Section_9_enum/Section_9_enum.project" Active="No"/>
+    <Project Name="Section_9_ifStatment" Path="Section_9_ifStatment/Section_9_ifStatment.project" Active="No"/>
+    <Project Name="SectionChallenge_9_" Path="SectionChallenge_9_/SectionChallenge_9_.project" Active="No"/>
+    <Project Name="WhileAndDoWhileLoop" Path="WhileAndDoWhileLoop/WhileAndDoWhileLoop.project" Active="No"/>
+    <Project Name="Nested_For_Loop" Path="Nested_For_Loop/Nested_For_Loop.project" Active="No"/>
+    <Project Name="HistogramProjectForLoop" Path="HistogramProjectForLoop/HistogramProjectForLoop.project" Active="No"/>
+    <Project Name="ForLoop" Path="ForLoop/ForLoop.project" Active="No"/>
+    <Project Name="FirstWorkspacegvhghghv" Path="FirstWorkspacegvhghghv/FirstWorkspacegvhghghv.project" Active="No"/>
+    <Project Name="FirstWorkspace" Path="FirstWorkspace/FirstWorkspace.project" Active="No"/>
+    <Project Name="FirstWorkspace" Path="FirstWorkspace/FirstWorkspace.project" Active="No"/>
+    <Project Name="_Ranged_Based_For_Loop" Path="_Ranged_Based_For_Loop/_Ranged_Based_For_Loop.project" Active="No"/>
+    <Project Name="2D_Vectors_Example" Path="2D_Vectors_Example/2D_Vectors_Example.project" Active="No"/>
+    <Project Name="ChallengeArrays" Path="ChallengeArrays/ChallengeArrays.project" Active="No"/>
+  </VirtualDirectory>
+  <Project Name="projectDays" Path="projectDays/projectDays.project" Active="No"/>
+  <BuildMatrix>
+    <WorkspaceConfiguration Name="Debug">
+      <Environment/>
+      <Project Name="Section_6" ConfigName="Debug"/>
+      <Project Name="Section_7" ConfigName="Debug"/>
+      <Project Name="FirstWorkspace" ConfigName="Debug"/>
+      <Project Name="Section_8" ConfigName="Debug"/>
+      <Project Name="ForLoop" ConfigName="Debug"/>
+      <Project Name="FirstWorkspace" ConfigName="Debug"/>
+      <Project Name="section_6_tagroba" ConfigName="Debug"/>
+      <Project Name="Section_6_SizeOfVariables" ConfigName="Debug"/>
+      <Project Name="tagroba_pointers_assignment_1" ConfigName="Debug"/>
+      <Project Name="Section_7_arrays" ConfigName="Debug"/>
+      <Project Name="Section_7_vectors" ConfigName="Debug"/>
+      <Project Name="2D_Vectors_Example" ConfigName="Debug"/>
+      <Project Name="Section_8_euros_to_dollars" ConfigName="Debug"/>
+      <Project Name="Section_8_euros_to_dollars" ConfigName="Debug"/>
+      <Project Name="Section_9_ifStatment" ConfigName="Debug"/>
+      <Project Name="Section_9_enum" ConfigName="Debug"/>
+      <Project Name="_Ranged_Based_For_Loop" ConfigName="Debug"/>
+      <Project Name="Nested_For_Loop" ConfigName="Debug"/>
+      <Project Name="HistogramProjectForLoop" ConfigName="Debug"/>
+      <Project Name="Section_10_c-style" ConfigName="Debug"/>
+      <Project Name="SectionChallenge_9_" ConfigName="Debug"/>
+      <Project Name="WhileAndDoWhileLoop" ConfigName="Debug"/>
+      <Project Name="C++-style" ConfigName="Debug"/>
+      <Project Name="Section_10_Challenge" ConfigName="Debug"/>
+      <Project Name="Pyramids_letter_section_10" ConfigName="Debug"/>
+      <Project Name="Functions_Section_11" ConfigName="Debug"/>
+      <Project Name="Cmath_Ctime_Cstdlib_function" ConfigName="Debug"/>
+      <Project Name="Function_Definition" ConfigName="Debug"/>
+      <Project Name="Assignment_1.2" ConfigName="Debug"/>
+      <Project Name="Assignment_1.3" ConfigName="Debug"/>
+      <Project Name="Assignment" ConfigName="Debug"/>
+      <Project Name="Assignment_1.1" ConfigName="Debug"/>
+      <Project Name="Assignment_1.4" ConfigName="Debug"/>
+      <Project Name="Overloading_Functions" ConfigName="Debug"/>
+      <Project Name="Pass_Arrays_To_Functions+tagroba" ConfigName="Debug"/>
+      <Project Name="Recursive_Functions" ConfigName="Debug"/>
+      <Project Name="FirstWorkspacegvhghghv" ConfigName="Debug"/>
+      <Project Name="DynamicMemory" ConfigName="Debug"/>
+      <Project Name="Relation_Between_arrays_and_pointers" ConfigName="Debug"/>
+      <Project Name="Const_pointer" ConfigName="Debug"/>
+      <Project Name="return_pointer_from_functions" ConfigName="Debug"/>
+      <Project Name="References" ConfigName="Debug"/>
+      <Project Name="Section_challenge" ConfigName="Debug"/>
+      <Project Name="First_Class" ConfigName="Debug"/>
+      <Project Name="Constructors" ConfigName="Debug"/>
+      <Project Name="Destructors" ConfigName="Debug"/>
+      <Project Name="Section6_To_Sectio7" ConfigName="Debug"/>
+      <Project Name="Pointers_To-Classes" ConfigName="Debug"/>
+      <Project Name="Overloading_Operators" ConfigName="Debug"/>
+      <Project Name="This-Pointer" ConfigName="Debug"/>
+      <Project Name="Static_Members" ConfigName="Debug"/>
+      <Project Name="Static_Functions" ConfigName="Debug"/>
+      <Project Name="Friend_Function" ConfigName="Debug"/>
+      <Project Name="Friend_Classes" ConfigName="Debug"/>
+      <Project Name="Polymorphism" ConfigName="Debug"/>
+      <Project Name="Challenge_HackerRank" ConfigName="Debug"/>
+      <Project Name="Classes" ConfigName="Debug"/>
+      <Project Name="Assignement_Lecture" ConfigName="Debug"/>
+      <Project Name="Assignment_Sheet_2" ConfigName="Debug"/>
+      <Project Name="Sheet2_question2" ConfigName="Debug"/>
+      <Project Name="Sheet1_Question_1" ConfigName="Debug"/>
+      <Project Name="Sheet1_Question2" ConfigName="Debug"/>
+      <Project Name="Sheet1_Question3" ConfigName="Debug"/>
+      <Project Name="Sheet_1_Question_6" ConfigName="Debug"/>
+      <Project Name="Sheet1_Question_3" ConfigName="Debug"/>
+      <Project Name="Sheet1_Question_4" ConfigName="Debug"/>
+      <Project Name="-pro[rpjecrtsa" ConfigName="Debug"/>
+      <Project Name="Trying_To_Make_A_File" ConfigName="Debug"/>
+      <Project Name="ASSIGNMENT_3" ConfigName="Debug"/>
+      <Project Name="LinkedList" ConfigName="Debug"/>
+      <Project Name="Stack" ConfigName="Debug"/>
+      <Project Name="Stack_with_Linked_List" ConfigName="Debug"/>
+      <Project Name="Queue" ConfigName="Debug"/>
+      <Project Name="SASA'project" ConfigName="Debug"/>
+      <Project Name="projectDays" ConfigName="Debug"/>
+      <Project Name="Implementaion" ConfigName="Debug"/>
+      <Project Name="Implementaion_2" ConfigName="Debug"/>
+    </WorkspaceConfiguration>
+    <WorkspaceConfiguration Name="Release">
+      <Environment/>
+      <Project Name="Section_6" ConfigName="Release"/>
+      <Project Name="Section_7" ConfigName="Release"/>
+      <Project Name="FirstWorkspace" ConfigName="Release"/>
+      <Project Name="Section_8" ConfigName="Release"/>
+      <Project Name="ForLoop" ConfigName="Release"/>
+      <Project Name="FirstWorkspace" ConfigName="Release"/>
+      <Project Name="section_6_tagroba" ConfigName="Release"/>
+      <Project Name="Section_6_SizeOfVariables" ConfigName="Release"/>
+      <Project Name="tagroba_pointers_assignment_1" ConfigName="Release"/>
+      <Project Name="Section_7_arrays" ConfigName="Release"/>
+      <Project Name="Section_7_vectors" ConfigName="Release"/>
+      <Project Name="2D_Vectors_Example" ConfigName="Release"/>
+      <Project Name="Section_8_euros_to_dollars" ConfigName="Release"/>
+      <Project Name="Section_8_euros_to_dollars" ConfigName="Release"/>
+      <Project Name="Section_9_ifStatment" ConfigName="Release"/>
+      <Project Name="Section_9_enum" ConfigName="Release"/>
+      <Project Name="_Ranged_Based_For_Loop" ConfigName="Release"/>
+      <Project Name="Nested_For_Loop" ConfigName="Release"/>
+      <Project Name="HistogramProjectForLoop" ConfigName="Release"/>
+      <Project Name="Section_10_c-style" ConfigName="Release"/>
+      <Project Name="SectionChallenge_9_" ConfigName="Release"/>
+      <Project Name="WhileAndDoWhileLoop" ConfigName="Release"/>
+      <Project Name="C++-style" ConfigName="Release"/>
+      <Project Name="Section_10_Challenge" ConfigName="Release"/>
+      <Project Name="Pyramids_letter_section_10" ConfigName="Release"/>
+      <Project Name="Functions_Section_11" ConfigName="Release"/>
+      <Project Name="Cmath_Ctime_Cstdlib_function" ConfigName="Release"/>
+      <Project Name="Function_Definition" ConfigName="Release"/>
+      <Project Name="Assignment_1.2" ConfigName="Release"/>
+      <Project Name="Assignment_1.3" ConfigName="Release"/>
+      <Project Name="Assignment" ConfigName="Release"/>
+      <Project Name="Assignment_1.1" ConfigName="Release"/>
+      <Project Name="Assignment_1.4" ConfigName="Release"/>
+      <Project Name="Overloading_Functions" ConfigName="Release"/>
+      <Project Name="Pass_Arrays_To_Functions+tagroba" ConfigName="Release"/>
+      <Project Name="Recursive_Functions" ConfigName="Release"/>
+      <Project Name="FirstWorkspacegvhghghv" ConfigName="Release"/>
+      <Project Name="DynamicMemory" ConfigName="Release"/>
+      <Project Name="Relation_Between_arrays_and_pointers" ConfigName="Release"/>
+      <Project Name="Const_pointer" ConfigName="Release"/>
+      <Project Name="return_pointer_from_functions" ConfigName="Release"/>
+      <Project Name="References" ConfigName="Release"/>
+      <Project Name="Section_challenge" ConfigName="Release"/>
+      <Project Name="First_Class" ConfigName="Release"/>
+      <Project Name="Constructors" ConfigName="Release"/>
+      <Project Name="Destructors" ConfigName="Release"/>
+      <Project Name="Section6_To_Sectio7" ConfigName="Release"/>
+      <Project Name="Pointers_To-Classes" ConfigName="Release"/>
+      <Project Name="Overloading_Operators" ConfigName="Release"/>
+      <Project Name="This-Pointer" ConfigName="Release"/>
+      <Project Name="Static_Members" ConfigName="Release"/>
+      <Project Name="Static_Functions" ConfigName="Release"/>
+      <Project Name="Friend_Function" ConfigName="Release"/>
+      <Project Name="Friend_Classes" ConfigName="Release"/>
+      <Project Name="Polymorphism" ConfigName="Release"/>
+      <Project Name="Challenge_HackerRank" ConfigName="Release"/>
+      <Project Name="Classes" ConfigName="Release"/>
+      <Project Name="Assignement_Lecture" ConfigName="Release"/>
+      <Project Name="Assignment_Sheet_2" ConfigName="Release"/>
+      <Project Name="Sheet2_question2" ConfigName="Release"/>
+      <Project Name="Sheet1_Question_1" ConfigName="Release"/>
+      <Project Name="Sheet1_Question2" ConfigName="Release"/>
+      <Project Name="Sheet1_Question3" ConfigName="Release"/>
+      <Project Name="Sheet_1_Question_6" ConfigName="Release"/>
+      <Project Name="Sheet1_Question_3" ConfigName="Release"/>
+      <Project Name="Sheet1_Question_4" ConfigName="Release"/>
+      <Project Name="-pro[rpjecrtsa" ConfigName="Release"/>
+      <Project Name="Trying_To_Make_A_File" ConfigName="Release"/>
+      <Project Name="ASSIGNMENT_3" ConfigName="Release"/>
+      <Project Name="LinkedList" ConfigName="Release"/>
+      <Project Name="Stack" ConfigName="Release"/>
+      <Project Name="Stack_with_Linked_List" ConfigName="Release"/>
+      <Project Name="Queue" ConfigName="Release"/>
+      <Project Name="SASA'project" ConfigName="Release"/>
+      <Project Name="projectDays" ConfigName="Release"/>
+      <Project Name="Implementaion" ConfigName="Release"/>
+      <Project Name="Implementaion_2" ConfigName="Release"/>
+    </WorkspaceConfiguration>
+  </BuildMatrix>
+</CodeLite_Workspace>

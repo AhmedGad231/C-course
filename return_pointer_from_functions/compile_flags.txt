@@ -1,0 +1,4 @@
+-IC:\Users\ahmed\Documents\FirstWorkspace\return_pointer_from_functions
+-std=c++17
+-target
+

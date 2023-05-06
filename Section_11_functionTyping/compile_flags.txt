@@ -1,0 +1,4 @@
+-IC:\Users\ahmed\Documents\FirstWorkspace\Section_11_functionTyping
+-std=c++17
+-target
+
